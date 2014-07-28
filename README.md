@@ -1,4 +1,4 @@
-# The OpenSSL Universal Binary Installer?
+# The OpenSSL Universal Binary Installer
 
 My goal is to provide an automatic way of building OpenSSL from source.
 Compiling from source made easy!
