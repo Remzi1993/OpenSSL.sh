@@ -5,7 +5,7 @@ Compiling from source made easy!
 If you need the latest version of OpenSSL just run this automatic bash script.
 Build latest OpenSSL Universal Binary on UNIX systems.
 
-## Features of Ruby
+## Features of the OpenSSL Universal Binary Installer
 
 *   Useful comments included in the bash script
 *   **Checks if you are running a 32-Bit or 64-Bit system** If you are on a 32-Bit it will compile native 32-bit code and the same goes for 64-Bit.
