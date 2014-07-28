@@ -1,4 +1,6 @@
-OpenSSL-Universal-Binary-Installer
+OpenSSL Universal Binary Installer
 ==================================
 
-My goal is to provide an automatic way of building OpenSSL from source. Compiling from source made easy! If you need the latest version of OpenSSL. Build latest OpenSSL Universal Binary on OSX
+My goal is to provide an automatic way of building OpenSSL from source. Compiling from source made easy!
+If you need the latest version of OpenSSL just run this automatic bash script.
+Build latest OpenSSL Universal Binary on UNIX systems.
