@@ -20,12 +20,14 @@ Build latest OpenSSL Universal Binary on UNIX systems.
 If you are using git and properly you do, otherwise you wouldn't be here :)
 Then use the following command:
 
-    $ git clone git://github.com/remzicavdar/OpenSSL-Universal-Binary-Installer.git
+	$ git clone git://github.com/remzicavdar/OpenSSL-Universal-Binary-Installer.git
 
 ## Quick install?
 
 You are just a user who wants to install or update OpenSSL quickly?
-Just run the following command: sudo OpenSSL-installer.sh
+Just run the following command:
+
+	$ sudo OpenSSL-installer.sh
 
 ## The Author
 
