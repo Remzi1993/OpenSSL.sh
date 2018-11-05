@@ -20,7 +20,7 @@ Build latest OpenSSL Universal Binary on UNIX systems.
 If you are using git and properly you do, otherwise you wouldn't be here :)
 Then use the following command:
 
-	$ git clone git://github.com/remzicavdar/OpenSSL-Universal-Binary-Installer.git
+	$ git clone git://github.com/Remzi1993/openssl-installer.git
 
 ## Quick install?
 
@@ -34,7 +34,7 @@ Just run the following command:
 OpenSSL Universal Binary Installer was originally developed by an internet guy tmiz.
 Now I want to provide UNIX systems an easy way of downloading, compiling, installing and updating OpenSSL.
 
-Website: https://remzi.info
+Website: http://remzi.info
 Twitter: https://twitter.com/remzicavdar
 
-<mailto:remzi@cavdar.nl>
+<mailto:ict@remzi.info>
